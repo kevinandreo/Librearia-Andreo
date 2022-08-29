@@ -1,0 +1,11 @@
+id,nombre,genero,autor,disponibilidad
+1,Don Quijote de la Mancha,Novela de aventura,Miguel de Cervantes,1
+2,Historia de dos ciudades,Novela historica,Charles Dickens,1
+3,El Senor de los Anillos,Novela fantastica,J. R. R. Tolkien,1
+4,El principito,Novela infantil,Saint-Exupery,1
+5,El codigo Da Vinci,Novela de misterio,Dan Brown,1
+6,Ella,Novela fantastica,Henry Rider Haggard,1
+7,Dune,Novela de ciencia ficcion,Frank Herbert,1
+8,Harry Potter y la piedra filosofal,Novela fantastica,J. K. Rowling,1
+9,Sueno en el pabellon rojo,Novela clasica,Cao Xueqin,1
+10,La odisea,Epopeya,Homero,1
